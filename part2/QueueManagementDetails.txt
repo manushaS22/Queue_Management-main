@@ -1,0 +1,6 @@
+---------------------Queue Management Details---------------------
+fr fre 3 Burgers Required  Position :Queue 1 Number 1
+f f 3 Burgers Required  Position :Queue 2 Number 1
+e de 3 Burgers Required  Position :Queue 2 Number 2
+f v 2 Burgers Required  Position :Queue 3 Number 1
+de de 3 Burgers Required  Position :Queue 3 Number 2

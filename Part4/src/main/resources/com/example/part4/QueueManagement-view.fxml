@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="793.0" prefWidth="601.0" style="-fx-background-color: #000000;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.part4.QueueManagementController">
+   <children>
+      <Button layoutX="222.0" layoutY="419.0" mnemonicParsing="false" onAction="#AddDetails" style="-fx-background-color: #9b72e0;" text="Check The Current Status" textFill="WHITE" />
+      <Label fx:id="C1P1" layoutX="84.0" layoutY="198.0" textFill="WHITE" />
+      <Label fx:id="C1P2" layoutX="84.0" layoutY="232.0" textFill="WHITE" />
+      <Label fx:id="C2P1" layoutX="213.0" layoutY="198.0" textFill="WHITE" />
+      <Label fx:id="C2P2" layoutX="213.0" layoutY="233.0" textFill="WHITE" />
+      <Label fx:id="C2P3" layoutX="212.0" layoutY="267.0" textFill="WHITE" />
+      <Label fx:id="C3P1" layoutX="349.0" layoutY="198.0" textFill="WHITE" />
+      <Label fx:id="C3P2" layoutX="352.0" layoutY="233.0" textFill="WHITE" />
+      <Label fx:id="C3P3" layoutX="352.0" layoutY="267.0" textFill="WHITE" />
+      <Label fx:id="C3P4" layoutX="352.0" layoutY="303.0" textFill="WHITE" />
+      <Label fx:id="C3P5" layoutX="352.0" layoutY="343.0" textFill="WHITE" />
+      <Label fx:id="W1" layoutX="479.0" layoutY="198.0" textFill="WHITE" />
+      <Label fx:id="W2" layoutX="479.0" layoutY="233.0" textFill="WHITE" />
+      <Label fx:id="W3" layoutX="479.0" layoutY="267.0" textFill="WHITE" />
+      <Label fx:id="W4" layoutX="479.0" layoutY="303.0" textFill="WHITE" />
+      <Label fx:id="W5" layoutX="479.0" layoutY="343.0" textFill="WHITE" />
+      <Label layoutX="62.0" layoutY="164.0" text="Cashier 1" textFill="WHITE" />
+      <Label layoutX="190.0" layoutY="164.0" text="Cashier 2" textFill="WHITE" />
+      <Label layoutX="326.0" layoutY="164.0" text="Cashier 3" textFill="WHITE" />
+      <Label layoutX="450.0" layoutY="164.0" text="wainting List" textFill="WHITE" />
+      <Label layoutX="123.0" layoutY="24.0" text="Foodies Fave Queue Management System" textFill="WHITE">
+         <font>
+            <Font name="BM HANNA Air OTF" size="20.0" />
+         </font></Label>
+      <TextField fx:id="search" layoutX="190.0" layoutY="503.0" promptText="Enter the name" />
+      <Label layoutX="17.0" layoutY="508.0" text="Search Customer Position" textFill="WHITE" />
+      <Button layoutX="364.0" layoutY="503.0" mnemonicParsing="false" onAction="#SearchDetails" style="-fx-background-color: #afe072;" text="Search" textFill="WHITE" />
+      <TextArea fx:id="ShowSearch" layoutX="14.0" layoutY="573.0" prefHeight="200.0" prefWidth="349.0" />
+      <Label layoutX="191.0" layoutY="457.0" prefHeight="17.0" prefWidth="219.0" text="Click the button to check current status" textFill="WHITE" />
+      <Label layoutX="464.0" layoutY="561.0" prefHeight="25.0" prefWidth="44.0" text="Income" textFill="WHITE" />
+      <Label fx:id="Q1I" layoutX="525.0" layoutY="600.0" textFill="WHITE" />
+      <Label fx:id="Q2I" layoutX="525.0" layoutY="636.0" textFill="WHITE" />
+      <Label fx:id="Q3I" layoutX="525.0" layoutY="676.0" textFill="WHITE" />
+      <Label layoutX="417.0" layoutY="600.0" text="Queue 1" textFill="WHITE" />
+      <Label layoutX="416.0" layoutY="636.0" text="Queue 2" textFill="WHITE" />
+      <Label layoutX="416.0" layoutY="676.0" text="Queue 3" textFill="WHITE" />
+      <Button layoutX="550.0" layoutY="747.0" mnemonicParsing="false" onAction="#Exit" style="-fx-background-color: #eb2626;" text="Exit" textFill="WHITE" />
+      <Label fx:id="total" layoutX="525.0" layoutY="711.0" textFill="WHITE" />
+      <Label layoutX="504.0" layoutY="693.0" text="--------------" textFill="WHITE" />
+      <Label layoutX="504.0" layoutY="719.0" text="--------------" textFill="WHITE" />
+      <ImageView fitHeight="76.0" fitWidth="62.0" layoutX="53.0" layoutY="88.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@cashier.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="85.0" fitWidth="62.0" layoutX="185.0" layoutY="88.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@cashier.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="62.0" fitWidth="68.0" layoutX="318.0" layoutY="88.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@cashier.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="62.0" fitWidth="52.0" layoutX="456.0" layoutY="93.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@queue.png" />
+         </image>
+      </ImageView>
+   </children>
+</Pane>

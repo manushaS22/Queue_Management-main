@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8438714-8167-486f-917c-1cfaf4016b12" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SE6qrXGgaXkq2OCtyO0Pzd3Z2m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vinuraimesh/Library/CloudStorage/OneDrive-InformaticsInstituteofTechnology/Semester 2/Software Development 2/Programming/CW1/Final/Part4&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.JavaFX&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.example.part4" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8438714-8167-486f-917c-1cfaf4016b12" name="Changes" comment="" />
+      <created>1688699588110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688699588110</updated>
+      <workItem from="1688699589169" duration="2060000" />
+      <workItem from="1688703892797" duration="1000" />
+      <workItem from="1688704550980" duration="24237000" />
+      <workItem from="1688754381197" duration="208000" />
+      <workItem from="1688754771496" duration="1360000" />
+      <workItem from="1688866036779" duration="367000" />
+      <workItem from="1688866732823" duration="70000" />
+      <workItem from="1688866965977" duration="2581000" />
+      <workItem from="1688887474695" duration="755000" />
+      <workItem from="1688959954651" duration="229000" />
+      <workItem from="1688960425369" duration="463000" />
+      <workItem from="1688961137299" duration="17000" />
+      <workItem from="1689085448834" duration="3087000" />
+      <workItem from="1689150967216" duration="4742000" />
+      <workItem from="1689169380675" duration="3633000" />
+      <workItem from="1689173764791" duration="1969000" />
+      <workItem from="1689176349764" duration="2000" />
+      <workItem from="1689178223070" duration="681000" />
+      <workItem from="1689217989681" duration="16000" />
+      <workItem from="1689221398042" duration="3000" />
+      <workItem from="1689223489582" duration="3000" />
+      <workItem from="1689234750127" duration="3592000" />
+      <workItem from="1689304040581" duration="49000" />
+      <workItem from="1689307821526" duration="625000" />
+      <workItem from="1689344486853" duration="59000" />
+      <workItem from="1689345173936" duration="743000" />
+      <workItem from="1689346739172" duration="42000" />
+      <workItem from="1689357275565" duration="4625000" />
+      <workItem from="1689416651162" duration="277000" />
+      <workItem from="1689422030191" duration="35000" />
+      <workItem from="1689422067686" duration="2158000" />
+      <workItem from="1689426276639" duration="2112000" />
+      <workItem from="1689431793624" duration="222000" />
+      <workItem from="1689432321286" duration="2375000" />
+      <workItem from="1689474191726" duration="2490000" />
+      <workItem from="1689505950999" duration="2387000" />
+      <workItem from="1693206654794" duration="137000" />
+      <workItem from="1693665066208" duration="117000" />
+      <workItem from="1693754906083" duration="526000" />
+      <workItem from="1695131010051" duration="164000" />
+      <workItem from="1695469454376" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

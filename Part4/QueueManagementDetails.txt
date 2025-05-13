@@ -1,0 +1,5 @@
+---------------------Queue Management Details---------------------
+aa gg 3 Burgers Required  Position :Queue 1 Number 1
+fre ver 1 Burgers Required  Position :Queue 1 Number 2
+cd cvrfe 4 Burgers Required  Position :Queue 2 Number 1
+vfe cdw 3 Burgers Required  Position :Queue 3 Number 1
